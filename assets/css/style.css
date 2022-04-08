@@ -136,17 +136,7 @@ body {
 }
 
 
-a[href$='0']::before {
-    content: 'Phone📱:';
-    display: inline-block;
-    color: black;
-}
 
-a[href$='com']::before {
-    content: 'Email 📧:';
-    display: inline-block; 
-    color: black;
-}
 
 .card-column{
     padding-bottom: 2%;

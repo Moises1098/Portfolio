@@ -9,5 +9,5 @@ The following pictures shows the web application's appearance and functionality:
 
 ![portfolio screenshots](assets/images/PageTop.png)
 
-![portfolio screenshots](assets/images/Work.png)
+![portfolio screenshots](assets/images/PageBtm.png)
 
